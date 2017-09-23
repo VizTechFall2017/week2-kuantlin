@@ -1,0 +1,13 @@
+#circle1{
+    fill:blue;
+}
+
+#circle2{
+    fill:green;
+}
+#circle3{
+    fill:purple;
+    stroke-width:3;
+    stroke:green;
+    opacity:0.5;
+}
